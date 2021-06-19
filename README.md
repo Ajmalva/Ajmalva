@@ -1,4 +1,4 @@
-### Hi there 👋 I'M Ajmal VA
+### Hi There 👋 I'M Ajmal VA
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ajmalva.Ajmalva)
 
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love to find shortcuts (work smarter)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=default)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalva&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalva&layout=compact)](https://github.com/Ajmalva/github-readme-stats)
+
