@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ajmal itself 
 - ⚡ Fun fact: i love to find shortcuts (work smarter)
 -->
-[![Ajmal's github stats](https://github-readme-stats.vercel.app/api?username=Ajmalva)](https://github.com/Ajmalva/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=algolia)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Ajmalva.Ajmalva)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalva&theme=algolia)
