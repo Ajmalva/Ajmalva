@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on lots of projects
-- 🌱 I’m currently learning python,css,dart,c
+- 🌱 I’m currently learning python,css,dart,c++
 - 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with getting new life hacks
-- 💬 Ask me about UI
+- 🤔 I’m looking for help with building projects
+- 💬 Ask me about UI, Arduino, ESP...
 - 📫 How to reach me: linkedin.com/in/ajmal-va
-- 😄 Pronouns: Ajmal itself 
-- ⚡ Fun fact: i love to find shortcuts (work smarter)
+- 😄 Pronouns: Ajmal / Aju  
+- ⚡ Fun fact: i dont sleep a lot (not fun for me)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=default)
