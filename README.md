@@ -34,12 +34,12 @@
 ## About Me:
 
 - 🔭 I’m currently working on lots of projects
-- 🌱 I’m currently learning python,css,dart,c++
+- 🌱 I’m currently learning Python, machine learning, CSS, React, Dart, C++
 - 👯 I’m looking to collaborate on awesome projects 
 - 🤔 I’m looking for help with building projects
-- 💬 Ask me about UI, AI/ML, Arduino, IoT, ESP..
-- 😄 Pronouns: Ajmal / Aju  
-- ⚡ Fun fact: i either sleep a lot or not at all, love to travel.
+- 💬 Ask me about UI, AI/ML, Arduino, Flutter, IoT, ESP..
+- 😄 Pronouns: He/ Him  
+- ⚡ Fun fact: I either sleep a lot or not at all, love to travel.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-va/) [![Instagram Badge](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crazy2another_level/) [![Facebook Badge](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010446008804) [![Twitter Badge](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AjmalVA7)
 
 ---
@@ -51,6 +51,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" **alt="AndroidStudio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="Matlab" **alt="Matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="unity" **alt="unity" width="40" height="40"/>
+  
 </div>
 
 ---
@@ -59,7 +65,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajmalva&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=dark)
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajmalva&show_icons=true&theme=dark)) --->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalva&layout=compact&theme=dark)](https://github.com/Ajmalva/github-readme-stats)
